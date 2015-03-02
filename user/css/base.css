@@ -1,8 +1,47 @@
+body {
+    padding-top: 70px;
+    font-size: 1.7em;
+}
+
+p {
+    line-height: 1.7em;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
 pre {
     background: #343d46 !important;
     color:#FFF !important;
     border: 3px solid #e5e5e5;
 }
+
+.index-menu {
+    font-size: 0.8em;
+    color: #A6AEC1;
+}
+
+.index-menu a {
+    color: #A6AEC1;
+}
+
+.index-menu a:hover {
+    color: #6C788E;
+}
+
+ul.nav li.main {
+    font-weight: bold;
+}
+
+div.col-md-3 {
+    padding-left: 0;
+}
+
+div.source-links {
+    float: right;
+}
+
 
 /* Base styles (regardless of theme) */
 .bs-callout {
