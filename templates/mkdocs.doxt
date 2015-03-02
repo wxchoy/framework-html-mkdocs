@@ -1,0 +1,20 @@
+---doxx---
+
+extension: yml
+
+---doxx---
+site_name: {{site-name}}
+site_description: "{{description}}"
+theme: {{theme}}
+repo_url: {{repo-url}}
+theme_dir: 'user'
+site_favicon: favicon.ico
+pages:
+- [index.md, Home]
+- [install.md, Install]
+- [quickstart.md, Quickstart]
+- [usage.md, Usage]
+- [more/changelog.md, "More", "Changelog"]
+- [more/issues.md, "More", "Issues"]
+- [more/license.md, "More", "License"]
+

@@ -1,0 +1,21 @@
+---
+
+template: templates/mkdocs.doxt
+
+---
+
+# The title of your site
+site-name:
+
+# The site description
+description:
+
+# The mkdocs theme
+theme: bootstrap
+
+# The project repository URL
+repo-url: "https://github.com/*****/*****"
+
+
+
+
