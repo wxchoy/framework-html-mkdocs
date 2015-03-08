@@ -6,7 +6,7 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 
 Thanks for using doxx!  You can contribute to the development of the site templates used in this software documentation package on the Github repository:
 
-[https://github.com/doxx-repo/framework-html-mkdocs-docs](https://github.com/doxx-repo/framework-html-mkdocs-docs)
+[https://github.com/doxx-repo/framework-html-mkdocs](https://github.com/doxx-repo/framework-html-mkdocs)
 
 ## Get Started
 
